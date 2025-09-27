@@ -1,3 +1,3 @@
-# Liquid-Labs
+# Liquid-Labs Standards
 
-Currently, most of the action is in the [liq](liq/) and Liquid Policy projects.
+Documents standard tools, style, testing, and other standards for Liquid Labs. Also defines org wide settings for the [sdlc tool](https://github.com/sdlcforce/).
